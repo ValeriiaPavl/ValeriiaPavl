@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I am Valeriia 👋
+Welcome to my Github profile! 
+I am a junior developer and I'm passionate about technologies! I am interested in web development and I am familiar with both: frontend and backend. 
 
-<!--
-**ValeriiaPavl/ValeriiaPavl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Frameworks and libraries I worked with:
+✨ Frontend part: JavaScript(React) with Typescript, HTML, CSS, Tailwind and ShadCN;
+✨ Backend part: REST API, Python (Django, Flask with SQLAlchemy as ORM), JavaScript (Express, Prisma ORM)
+✨ Databases: Postgres,SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects:
+-  [Frontend: Typescript,Next.js, React, TailwindCSS,  ShadCN] (https://github.com/ValeriiaPavl/FSB-frontend) and [Backend: Python, Django-REST-API(DRM), Postgres] (https://github.com/ValeriiaPavl/FSB-REST-back). You can see this project online - [FindSomeBuddyApp](https://findsomebuddy.vercel.app/) 
+- [RESTful Weather App] (https://github.com/ValeriiaPavl/weather-app)
+- [RESTAPI Web Calendar](https://github.com/ValeriiaPavl/web-calendar)
+
